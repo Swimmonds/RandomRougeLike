@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{873CDE7E-4489-CC1C-DD92-BAA08D20C2CB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RandomRougeLike",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
